@@ -39,3 +39,25 @@ ul li {
   color: brown;
   background-color: lightgray;
 }
+
+.banner img {
+  width: 60%;
+  margin: 32px 24px;
+  float: left;
+  display: inline-block;
+}
+
+.bannertext {
+  position:
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  display: inline-block;
+}
+
+.bannerbutton {
+  padding: 8px;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
